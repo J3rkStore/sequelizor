@@ -4,7 +4,10 @@
 
 ## Description
 
-Object-Relational Mapping (ORM): E-Commerce Back End
+Object-Relational Mapping (ORM): E-Commerce Back End.  Built with MySQL
+
+![image](https://github.com/J3rkStore/sequelizor/assets/59859758/df033887-788f-43a7-981d-8acec757fd88)
+
 
 ## Table of Contents
 
